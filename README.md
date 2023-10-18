@@ -72,7 +72,7 @@ module.exports = [{
 npm start
 ```
 
-## 更新内容
+## 更新
 
 ### 2023-06-09
 [添加错误重试](https://github.com/wes-lin/Cloud189Checkin/issues/14)
